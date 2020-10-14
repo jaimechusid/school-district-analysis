@@ -19,6 +19,8 @@ Effects on the district summary:
 - The percentage of students who passed math decreased from 75% to 74.8%
 - The percentage of students who passed reading decreased from 86% to 85.7%
 - The overall passing percentage decreased from 65% to 64.9%
+- District summary after the change:
+- ![District Summary](district_after.png)
 
 Effects on the school summary:
 - The change only affected Thomas High Schools' metrics, everything else remained unchanged
@@ -38,13 +40,19 @@ Effects on specific values:
   - Now, the scores are removed, so there are shown as NaN
 - Scores by school spending
   - Because Thomas High School is in the $630-644 range, only that spending bin's metrics were affected
-  - 
+  - Shown below is the updated school spending table:
+  - ![Scores by Spending](spending.png)
 - Scores by school size
-  - 
+  - Because Thomas High School is in the Medium school size range, only that size's metrics were affected
+  - Shown below is the updated school size table:
+  - ![Scores by Size](size.png)
 - Scores by school type
+  - Because Thomas High School is a Charter School, only charter school metrics were affected
+  - Shown below is the updated school type table:
+  - ![Scores by Type](type.png)
 
 ## Summary
-1. major change 1
-2. change 2
-3. change 3
-4. change 4
+1. The passing percentages at Thomas High School for math, reading, and overall increased dramatically after the 9th grade scores were removed. The passing math percentage increased from 66.9% to 93.2%. The passing reading percentage increased from 69.7%. to 97.0%. The overall passing percentage increased from 65.1% to 90.6%.
+2. Thomas High School moved up in the ranking of schools, based on overall passing percentage, from #8 to #2.
+3. The overall passing rates for the $630-644 spending range, medium size schools, and charter schools increased when Thomas High School's scores were corrected.
+4. Even with the change, the average math and reading scores for Thomas High School remained the same.
