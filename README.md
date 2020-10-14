@@ -38,10 +38,16 @@ Effects on specific values:
   - Now, the scores are removed, so there are shown as NaN
 - Scores by school spending
   - Because Thomas High School is in the $630-644 range, only that spending bin's metrics were affected
-  - 
+  - Shown below is the updated school spending table:
+  - [!Scores by Spending](spending.png)
 - Scores by school size
-  - 
+  - Because Thomas High School is in the Medium school size range, only that size's metrics were affected
+  - Shown below is the updated school size table:
+  - [!Scores by Size](size.png)
 - Scores by school type
+  - Because Thomas High School is a Charter School, only charter school metrics were affected
+  - Shown below is the updated school type table:
+  - [!Scores by Type](type.png)
 
 ## Summary
 1. major change 1
