@@ -52,7 +52,7 @@ Effects on specific values:
   - ![Scores by Type](type.png)
 
 ## Summary
-1. major change 1
-2. change 2
-3. change 3
-4. change 4
+1. The passing percentages at Thomas High School for math, reading, and overall increased dramatically after the 9th grade scores were removed. The passing math percentage increased from 66.9% to 93.2%. The passing reading percentage increased from 69.7%. to 97.0%. The overall passing percentage increased from 65.1% to 90.6%.
+2. Thomas High School moved up in the ranking of schools, based on overall passing percentage, from #8 to #2.
+3. The overall passing rates for the $630-644 spending range, medium size schools, and charter schools increased when Thomas High School's scores were corrected.
+4. Even with the change, the average math and reading scores for Thomas High School remained the same.
