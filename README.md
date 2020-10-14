@@ -21,15 +21,26 @@ Effects on the district summary:
 - The overall passing percentage decreased from 65% to 64.9%
 
 Effects on the school summary:
-- explain here
+- The change only affected Thomas High Schools' metrics, everything else remained unchanged
+  - The average math and reading scores remained unchanged at 83.4 and 83.9, respectively
+  - The percentage of students who passed math increased from 66.9% to 93.2%
+  - The percentage of students who passed reading increased from 69.7%. to 97.0%
+  - The overall passing percentage increased from 65.1% to 90.6%
 
 Effects on Thomas High School's performance:
-- explain
+- Before the grades were changed, Thomas High School was ranked #8 in order of overall passing percentage.
+- After the change, Thomas High School moved up in the rankings to #2, with an overall passing percentage of 90.6%.
 
 Effects on specific values:
 - Math and reading scores by grade
+  - Only the 9th grade scores at Thomas High School were affected by these changes.
+  - Before, the average math and reading scores were 83.6 and 83.7, respectively
+  - Now, the scores are removed, so there are shown as NaN
 - Scores by school spending
+  - Because Thomas High School is in the $630-644 range, only that spending bin's metrics were affected
+  - 
 - Scores by school size
+  - 
 - Scores by school type
 
 ## Summary
