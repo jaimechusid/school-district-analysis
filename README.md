@@ -19,6 +19,8 @@ Effects on the district summary:
 - The percentage of students who passed math decreased from 75% to 74.8%
 - The percentage of students who passed reading decreased from 86% to 85.7%
 - The overall passing percentage decreased from 65% to 64.9%
+- District summary after the change:
+- ![District Summary](district_after.png)
 
 Effects on the school summary:
 - The change only affected Thomas High Schools' metrics, everything else remained unchanged
